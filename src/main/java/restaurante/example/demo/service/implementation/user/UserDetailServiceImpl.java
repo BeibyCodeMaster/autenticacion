@@ -15,7 +15,7 @@ import org.springframework.security.core.userdetails.UserDetailsService;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;
 import org.springframework.stereotype.Service;
 import restaurante.example.demo.config.security.jwt.JwtUtils;
-import restaurante.example.demo.error.AutBadCredentialsException;
+import restaurante.example.demo.exceptions.AutBadCredentialsException;
 import restaurante.example.demo.persistence.model.user.UserEntity;
 import restaurante.example.demo.persistence.repositoy.user.IUserRepository;
 import restaurante.example.demo.presentation.dto.auth.AuthLoginRequest;

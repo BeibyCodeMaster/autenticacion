@@ -1,5 +1,5 @@
 
-package restaurante.example.demo.error;
+package restaurante.example.demo.exceptions;
 
 // Clase que maneja las excepciones cuando no se encuentra un recurso solicitado.
 // Esta clase extiende `Exception` y se lanza cuando una entidad no es encontrada

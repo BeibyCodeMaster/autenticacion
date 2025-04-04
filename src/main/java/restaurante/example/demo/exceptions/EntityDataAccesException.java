@@ -1,4 +1,4 @@
-package restaurante.example.demo.error;
+package restaurante.example.demo.exceptions;
 
 import org.springframework.dao.DataAccessException;
 

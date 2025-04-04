@@ -1,7 +1,7 @@
 package restaurante.example.demo.service.interfaces.common;
 
-import restaurante.example.demo.error.EntityDataAccesException;
-import restaurante.example.demo.error.EntityNotFoundException;
+import restaurante.example.demo.exceptions.EntityDataAccesException;
+import restaurante.example.demo.exceptions.EntityNotFoundException;
 
 import java.util.List;
 

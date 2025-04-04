@@ -1,4 +1,4 @@
-package restaurante.example.demo.error;
+package restaurante.example.demo.exceptions;
 
 // Clase que maneja las excepciones de argumentos inválidos.
 // Extiende `IllegalArgumentException` y se utiliza para lanzar excepciones
